@@ -3,3 +3,5 @@
 Michał Hordecki
 
 Zadanie drugie - dodaję zmianę
+
+data:27.10.2022
